@@ -5,8 +5,6 @@ function highlight() {
 		bold[i].classList.add("highlight");
 	}
 }
-
-
 function return_normal() {
     //Write your code here
 	var bold=document.getElementsByTagName("strong");
